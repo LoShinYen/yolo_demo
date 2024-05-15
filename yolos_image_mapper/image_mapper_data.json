@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "-8056900546934342906",
+        "title": "tv",
+        "shape": "rect",
+        "name": "72",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            303.95,
+            295.63,
+            441.33,
+            400.96
+        ]
+    },
+    {
+        "id": "-9037049144296921792",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            242.65,
+            370.08,
+            293.23,
+            420.02
+        ]
+    },
+    {
+        "id": "-1714215990013791065",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            436.83,
+            206.26,
+            466.07,
+            232.95
+        ]
+    },
+    {
+        "id": "-2117387902977064456",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            475.23,
+            314.36,
+            495.06,
+            342.01
+        ]
+    },
+    {
+        "id": "-1392579270926783594",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            118.59,
+            164.78,
+            168.97,
+            197.53
+        ]
+    },
+    {
+        "id": "7544703229865162949",
+        "title": "couch",
+        "shape": "rect",
+        "name": "63",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            602.96,
+            396.99,
+            800.18,
+            596.44
+        ]
+    },
+    {
+        "id": "2490299542247545956",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            163.08,
+            462.64,
+            191.8,
+            505.85
+        ]
+    },
+    {
+        "id": "5396834052280603068",
+        "title": "chair",
+        "shape": "rect",
+        "name": "62",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            323.86,
+            498.32,
+            538.75,
+            599.14
+        ]
+    },
+    {
+        "id": "-6951959007181648537",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            119.18,
+            164.04,
+            159.46,
+            197.62
+        ]
+    },
+    {
+        "id": "5001240736938105757",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            143.91,
+            415.64,
+            216.12,
+            506.65
+        ]
+    },
+    {
+        "id": "-2379335888167862380",
+        "title": "bowl",
+        "shape": "rect",
+        "name": "51",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            106.43,
+            353.44,
+            136.08,
+            367.61
+        ]
+    },
+    {
+        "id": "8695375686988619471",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            259.13,
+            394.1,
+            288.18,
+            419.05
+        ]
+    },
+    {
+        "id": "-861942350799466018",
+        "title": "dining table",
+        "shape": "rect",
+        "name": "67",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            460.01,
+            425.6,
+            684.14,
+            597.94
+        ]
+    },
+    {
+        "id": "5744244572293626419",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            479.82,
+            327.18,
+            491.92,
+            341.65
+        ]
+    },
+    {
+        "id": "-2794067955364811686",
+        "title": "chair",
+        "shape": "rect",
+        "name": "62",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            744.82,
+            393.1,
+            799.97,
+            471.95
+        ]
+    },
+    {
+        "id": "945993804980925250",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            489.4,
+            321.44,
+            502.76,
+            340.63
+        ]
+    },
+    {
+        "id": "7599253802547019488",
+        "title": "book",
+        "shape": "rect",
+        "name": "84",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            123.36,
+            326.48,
+            148.5,
+            354.06
+        ]
+    },
+    {
+        "id": "-4254355094937461160",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            477.23,
+            327.24,
+            487.68,
+            343.15
+        ]
+    },
+    {
+        "id": "5720280982781575801",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            103.85,
+            348.43,
+            136.91,
+            367.13
+        ]
+    },
+    {
+        "id": "8619718778999983185",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            444.09,
+            223.27,
+            461.25,
+            235.46
+        ]
+    },
+    {
+        "id": "-4133685454786339851",
+        "title": "couch",
+        "shape": "rect",
+        "name": "63",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            602.13,
+            404.43,
+            799.48,
+            596.84
+        ]
+    },
+    {
+        "id": "5690494319563531508",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            119.42,
+            176.55,
+            136.41,
+            199.14
+        ]
+    },
+    {
+        "id": "-641909412478568236",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            150.44,
+            181.9,
+            171.42,
+            196.73
+        ]
+    },
+    {
+        "id": "-1474114306508809162",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            142.44,
+            416.18,
+            215.55,
+            508.14
+        ]
+    },
+    {
+        "id": "-2020327999858151931",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            154.59,
+            461.05,
+            179.85,
+            506.7
+        ]
+    },
+    {
+        "id": "-4942318955807818380",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            136.97,
+            170.41,
+            164.76,
+            196.93
+        ]
+    },
+    {
+        "id": "3949882223270854303",
+        "title": "book",
+        "shape": "rect",
+        "name": "84",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            117.28,
+            327.34,
+            149.06,
+            361.65
+        ]
+    },
+    {
+        "id": "-4793480381122758082",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            155.92,
+            182.9,
+            173.88,
+            197.21
+        ]
+    },
+    {
+        "id": "6339873236750151238",
+        "title": "chair",
+        "shape": "rect",
+        "name": "62",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            602.71,
+            403.94,
+            799.39,
+            596.58
+        ]
+    },
+    {
+        "id": "-7590389965378891853",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            481.47,
+            320.95,
+            492.13,
+            339.19
+        ]
+    },
+    {
+        "id": "-6165089842111895982",
+        "title": "couch",
+        "shape": "rect",
+        "name": "63",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            319.76,
+            496.23,
+            547.09,
+            598.62
+        ]
+    },
+    {
+        "id": "-5129619198513698709",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            445.1,
+            220.27,
+            462.35,
+            234.77
+        ]
+    },
+    {
+        "id": "966743274900626638",
+        "title": "tv",
+        "shape": "rect",
+        "name": "72",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            201.22,
+            249.61,
+            242.39,
+            280.64
+        ]
+    },
+    {
+        "id": "-4800704250489392647",
+        "title": "chair",
+        "shape": "rect",
+        "name": "62",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            745.96,
+            395.91,
+            799.88,
+            473.74
+        ]
+    },
+    {
+        "id": "-2467773867469387278",
+        "title": "couch",
+        "shape": "rect",
+        "name": "63",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            601.86,
+            455.18,
+            799.59,
+            597.75
+        ]
+    },
+    {
+        "id": "1741845371511124527",
+        "title": "tv",
+        "shape": "rect",
+        "name": "72",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            348.31,
+            320.03,
+            437.7,
+            394.81
+        ]
+    },
+    {
+        "id": "5666519262694534658",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            498.12,
+            220.81,
+            521.01,
+            243.98
+        ]
+    },
+    {
+        "id": "-5142604222213083933",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            436.35,
+            221.63,
+            458.9,
+            235.69
+        ]
+    },
+    {
+        "id": "7139355320595975309",
+        "title": "bowl",
+        "shape": "rect",
+        "name": "51",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            103.35,
+            348.72,
+            125.1,
+            363.68
+        ]
+    },
+    {
+        "id": "2013109465017869581",
+        "title": "clock",
+        "shape": "rect",
+        "name": "85",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            105.57,
+            169.69,
+            120.38,
+            207.22
+        ]
+    },
+    {
+        "id": "-4899220419767736809",
+        "title": "chair",
+        "shape": "rect",
+        "name": "62",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            603.89,
+            397.67,
+            800.05,
+            596.99
+        ]
+    },
+    {
+        "id": "-1926242117375989962",
+        "title": "chair",
+        "shape": "rect",
+        "name": "62",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            602.01,
+            474.44,
+            799.78,
+            598.57
+        ]
+    },
+    {
+        "id": "8531341692743630103",
+        "title": "bottle",
+        "shape": "rect",
+        "name": "44",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            408.82,
+            194.71,
+            417.22,
+            233.86
+        ]
+    },
+    {
+        "id": "7056427633041759328",
+        "title": "bowl",
+        "shape": "rect",
+        "name": "51",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            118.45,
+            352.43,
+            139.67,
+            365.91
+        ]
+    },
+    {
+        "id": "6915716115227407262",
+        "title": "remote",
+        "shape": "rect",
+        "name": "75",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            368.89,
+            392.81,
+            395.34,
+            404.44
+        ]
+    },
+    {
+        "id": "-1103131181278161953",
+        "title": "chair",
+        "shape": "rect",
+        "name": "62",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            331.75,
+            496.96,
+            536.1,
+            599.12
+        ]
+    },
+    {
+        "id": "-6281540062321670223",
+        "title": "couch",
+        "shape": "rect",
+        "name": "63",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            313.71,
+            495.79,
+            552.59,
+            598.51
+        ]
+    },
+    {
+        "id": "-6222279519131907742",
+        "title": "chair",
+        "shape": "rect",
+        "name": "62",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            744.56,
+            392.14,
+            799.86,
+            471.42
+        ]
+    },
+    {
+        "id": "6276156333004271419",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            108.95,
+            170.53,
+            123.56,
+            204.46
+        ]
+    },
+    {
+        "id": "44452945646203167",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            160.56,
+            462.89,
+            186.69,
+            505.97
+        ]
+    },
+    {
+        "id": "-1446511117861370483",
+        "title": "couch",
+        "shape": "rect",
+        "name": "63",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            322.32,
+            495.42,
+            541.25,
+            598.89
+        ]
+    },
+    {
+        "id": "2055389520257597267",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            501.41,
+            224.08,
+            524.97,
+            289.13
+        ]
+    },
+    {
+        "id": "7078321311299894633",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            512.3,
+            276.46,
+            525.53,
+            293.48
+        ]
+    },
+    {
+        "id": "-3139960297328332730",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            481.49,
+            312.29,
+            500.82,
+            343.25
+        ]
+    },
+    {
+        "id": "-2219498999536067730",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            478.31,
+            316.12,
+            492.31,
+            343.97
+        ]
+    },
+    {
+        "id": "6404312967046237489",
+        "title": "remote",
+        "shape": "rect",
+        "name": "75",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            308.01,
+            401.7,
+            320.53,
+            413.06
+        ]
+    },
+    {
+        "id": "-2502375534580645645",
+        "title": "refrigerator",
+        "shape": "rect",
+        "name": "82",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            -0.08,
+            171.15,
+            56.63,
+            493.11
+        ]
+    },
+    {
+        "id": "-6465184769644263008",
+        "title": "chair",
+        "shape": "rect",
+        "name": "62",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            608.04,
+            462.36,
+            799.11,
+            597.15
+        ]
+    },
+    {
+        "id": "8473870680647106379",
+        "title": "bottle",
+        "shape": "rect",
+        "name": "44",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            88.36,
+            483.45,
+            102.43,
+            503.24
+        ]
+    },
+    {
+        "id": "-8199034438563950813",
+        "title": "remote",
+        "shape": "rect",
+        "name": "75",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            311.02,
+            396.64,
+            326.03,
+            406.94
+        ]
+    },
+    {
+        "id": "-6654930669180431293",
+        "title": "chair",
+        "shape": "rect",
+        "name": "62",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            605.03,
+            479.03,
+            799.69,
+            597.93
+        ]
+    },
+    {
+        "id": "-2550110913763553936",
+        "title": "chair",
+        "shape": "rect",
+        "name": "62",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            744.87,
+            397.33,
+            799.83,
+            472.31
+        ]
+    },
+    {
+        "id": "5854150118981034410",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            261.22,
+            380.34,
+            281.27,
+            408.74
+        ]
+    },
+    {
+        "id": "-7189765002814937391",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            260.92,
+            395.11,
+            279.93,
+            419.91
+        ]
+    },
+    {
+        "id": "-2798603268990312905",
+        "title": "book",
+        "shape": "rect",
+        "name": "84",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            121.89,
+            328.2,
+            139.08,
+            352.08
+        ]
+    },
+    {
+        "id": "-4970718246015435065",
+        "title": "book",
+        "shape": "rect",
+        "name": "84",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            123.86,
+            328.46,
+            140.67,
+            352.63
+        ]
+    },
+    {
+        "id": "-970588708733138880",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            261.81,
+            395.45,
+            286.3,
+            419.6
+        ]
+    },
+    {
+        "id": "2163016638914150313",
+        "title": "chair",
+        "shape": "rect",
+        "name": "62",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            602.9,
+            396.61,
+            799.87,
+            594.7
+        ]
+    },
+    {
+        "id": "6821813383710035390",
+        "title": "book",
+        "shape": "rect",
+        "name": "84",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            68.25,
+            367.62,
+            101.3,
+            444.17
+        ]
+    },
+    {
+        "id": "-65601205710197549",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            467.97,
+            333.69,
+            480.55,
+            359.19
+        ]
+    },
+    {
+        "id": "8175973635226601544",
+        "title": "couch",
+        "shape": "rect",
+        "name": "63",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            293.41,
+            427.0,
+            797.17,
+            597.65
+        ]
+    },
+    {
+        "id": "1122651040345639407",
+        "title": "couch",
+        "shape": "rect",
+        "name": "63",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            296.69,
+            439.47,
+            796.72,
+            597.25
+        ]
+    },
+    {
+        "id": "5558310123645527718",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            259.7,
+            397.97,
+            287.21,
+            419.83
+        ]
+    },
+    {
+        "id": "-2727023853264596368",
+        "title": "remote",
+        "shape": "rect",
+        "name": "75",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            365.86,
+            391.89,
+            399.49,
+            404.78
+        ]
+    },
+    {
+        "id": "6328223441294711626",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            260.45,
+            380.85,
+            287.65,
+            419.69
+        ]
+    },
+    {
+        "id": "-2418261058828239586",
+        "title": "couch",
+        "shape": "rect",
+        "name": "63",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            724.77,
+            400.51,
+            800.39,
+            582.54
+        ]
+    },
+    {
+        "id": "2522528361947810740",
+        "title": "couch",
+        "shape": "rect",
+        "name": "63",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            323.07,
+            497.1,
+            537.94,
+            598.98
+        ]
+    },
+    {
+        "id": "4057352038052089105",
+        "title": "book",
+        "shape": "rect",
+        "name": "84",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            104.1,
+            176.34,
+            118.34,
+            207.39
+        ]
+    },
+    {
+        "id": "5652040281987408716",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            480.6,
+            322.5,
+            511.31,
+            349.34
+        ]
+    },
+    {
+        "id": "-2194642296069334981",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            542.99,
+            183.25,
+            546.15,
+            205.59
+        ]
+    },
+    {
+        "id": "-7340966888944825492",
+        "title": "dining table",
+        "shape": "rect",
+        "name": "67",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            462.25,
+            424.34,
+            689.14,
+            597.95
+        ]
+    },
+    {
+        "id": "7073997456042778757",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            265.79,
+            381.88,
+            287.67,
+            415.57
+        ]
+    },
+    {
+        "id": "-4929511095287499645",
+        "title": "vase",
+        "shape": "rect",
+        "name": "86",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            258.46,
+            382.34,
+            281.28,
+            418.58
+        ]
+    },
+    {
+        "id": "4767085641692823788",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            244.93,
+            370.59,
+            290.38,
+            418.01
+        ]
+    },
+    {
+        "id": "-5643401874002408620",
+        "title": "remote",
+        "shape": "rect",
+        "name": "75",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            361.46,
+            396.84,
+            396.63,
+            414.49
+        ]
+    },
+    {
+        "id": "6845069201331286326",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            142.68,
+            415.79,
+            214.17,
+            508.37
+        ]
+    },
+    {
+        "id": "3275181337181227647",
+        "title": "couch",
+        "shape": "rect",
+        "name": "63",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            684.84,
+            427.38,
+            800.01,
+            592.06
+        ]
+    },
+    {
+        "id": "2962037393047835691",
+        "title": "dining table",
+        "shape": "rect",
+        "name": "67",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            461.57,
+            426.39,
+            681.19,
+            575.91
+        ]
+    },
+    {
+        "id": "-2267704874711185180",
+        "title": "couch",
+        "shape": "rect",
+        "name": "63",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            304.18,
+            494.55,
+            550.51,
+            599.15
+        ]
+    },
+    {
+        "id": "-9003549417086572733",
+        "title": "book",
+        "shape": "rect",
+        "name": "84",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            71.56,
+            423.16,
+            89.34,
+            446.64
+        ]
+    },
+    {
+        "id": "5973717145313578870",
+        "title": "chair",
+        "shape": "rect",
+        "name": "62",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            605.01,
+            447.38,
+            800.03,
+            550.82
+        ]
+    },
+    {
+        "id": "-9195202220918274158",
+        "title": "oven",
+        "shape": "rect",
+        "name": "79",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            359.72,
+            394.87,
+            402.85,
+            428.79
+        ]
+    },
+    {
+        "id": "-8727920165670883068",
+        "title": "tv",
+        "shape": "rect",
+        "name": "72",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            293.93,
+            306.49,
+            452.09,
+            401.78
+        ]
+    },
+    {
+        "id": "-6467845081968718205",
+        "title": "refrigerator",
+        "shape": "rect",
+        "name": "82",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            14.82,
+            165.71,
+            90.39,
+            491.88
+        ]
+    },
+    {
+        "id": "-7140326373107373709",
+        "title": "dining table",
+        "shape": "rect",
+        "name": "67",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            464.12,
+            430.02,
+            674.86,
+            597.79
+        ]
+    },
+    {
+        "id": "-4307995225655735458",
+        "title": "bottle",
+        "shape": "rect",
+        "name": "44",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            406.49,
+            194.4,
+            414.47,
+            231.49
+        ]
+    },
+    {
+        "id": "-7692563434279474833",
+        "title": "tv",
+        "shape": "rect",
+        "name": "72",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            302.63,
+            297.99,
+            449.2,
+            400.81
+        ]
+    },
+    {
+        "id": "1071647190329785708",
+        "title": "potted plant",
+        "shape": "rect",
+        "name": "64",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            435.3,
+            24.97,
+            547.88,
+            240.81
+        ]
+    },
+    {
+        "id": "-5705009286567623161",
+        "title": "remote",
+        "shape": "rect",
+        "name": "75",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            372.3,
+            213.53,
+            389.09,
+            227.07
+        ]
+    },
+    {
+        "id": "3128234720098879560",
+        "title": "chair",
+        "shape": "rect",
+        "name": "62",
+        "fillColor": "#0000ff4d",
+        "strokeColor": "black",
+        "coords": [
+            644.08,
+            447.2,
+            682.3,
+            531.51
+        ]
+    }
+]
